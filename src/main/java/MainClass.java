@@ -20,7 +20,7 @@ public class MainClass extends PApplet{
 
     @Override
     public void setup() {
-        background(255);
+       
 
     }
 
