@@ -3,7 +3,7 @@ import processing.core.PApplet;
 
 public class MainClass extends PApplet{
 
-    public static final float DIAMETER =21;
+    public static final float DIAMETER =20;
     public static final float HEIGHT =480;
     float x1=0,x2=0,x3=0,x4=0;
 
